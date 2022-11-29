@@ -1,4 +1,4 @@
-import requests, disnake, aiohttp
+import requests, aiohttp
 tags = None
 async def dan_booru():
     while True:
